@@ -3,9 +3,9 @@
   
 Hi!!!
 
-I'm Flávia, a Computer Science Education student at UTFPR, passionate about technology, programming, and the world of Tolkien 🌿. Here you'll find my projects, studies, and experiments with languages like Python, C, Java, and more.
+I'm Flávia, a Computer Science Education student at UTFPR, passionate about technology, programming, and the world of Tolkien. Here you'll find my projects, studies, and experiments with languages like Python, C, Java, and more.
 
-In my free time, I'm a Valorant player for the UTFPR university team Azure Bears 🎮 and the proud mommy of a little cat named Goku 🐾.
+In my free time, I'm a Valorant player for the UTFPR university team Azure Bears 🎮 and a proud mommy of a little cat named Goku.
 I'm always learning, growing, and sharing a bit of my journey here.
 
 You can find me on: 
