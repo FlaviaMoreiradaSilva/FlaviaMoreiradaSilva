@@ -1,10 +1,12 @@
 # About me: 
   <a href="https://ibb.co/x6QsqN1"><img src="https://i.ibb.co/DQnbfZ9/DALL-E-2024-10-08-13-54-32-An-illustration-of-a-girl-with-long-brown-hair-and-brown-eyes-in-a-gaming.webp" alt="DALL-E-2024-10-08-13-54-32-An-illustration-of-a-girl-with-long-brown-hair-and-brown-eyes-in-a-gaming" height="300" width="300" border="0"></a>
-- Hi!!! My name is Flávia
-- I’m a computing degree student at UTFPR 👩🏻‍💻
-- Goku's mother (Kitten 🐈)
-- Tolkien addicted 🧝🏻‍♀️
-- Valorant pro player in my free time 💻🎯
+  
+Hi!!!
+
+I'm Flávia, a Computer Science Education student at UTFPR, passionate about technology, programming, and the world of Tolkien 🌿. Here you'll find my projects, studies, and experiments with languages like Python, C, Java, and more.
+
+In my free time, I'm a Valorant player for the UTFPR university team Azure Bears 🎮 and the proud mommy of a little cat named Goku 🐾.
+I'm always learning, growing, and sharing a bit of my journey here.
 
 You can find me on: 
 
